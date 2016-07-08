@@ -1,0 +1,103 @@
+﻿body {
+}
+#companyname1 {
+    text-align:center;
+    font-size:30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    }
+#companyname2 {
+    text-align:center;
+    font-size:12px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.companyname {
+    background-color:lightblue; 
+    height:140px;  
+    padding:20px 0;
+}
+
+
+.row1col1 {
+    background: url('../tuscanyvilla1.jpg');  
+    background-size:cover;  
+    background-position:center center;    
+    height:400px;
+   
+}
+
+.row1col2 {
+    background: url('../tuscany-map.jpg');  
+    background-size:cover;  
+    background-position:center center;    
+    height:400px;
+}
+.row1col1text {
+    background-color:grey;
+    color:white;
+    text-align:center;
+    margin:100px 75px 100px 75px;
+}
+.row1col2text {
+    background-color:white;
+    color:black;
+    text-align:center;
+    margin:100px 10px 100px 10px;
+}
+.row2col1 {
+    /*background: url('../tuscanyvilla1.jpg');  
+    background-size:cover;  
+    background-position:center center;*/    
+    height:200px;
+   
+}
+
+.row2col2 {
+    background-image: url('../tuscany-wedding.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 200px;
+}
+.row2col3 {
+    background-image: url('../friends-tuscany.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 200px;
+}
+
+.row2col4 {
+    background-image: url('../family-tuscany.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 200px;
+}
+.row2col1text {
+    /*background-color:black;
+    color:white;*/
+    
+    text-align: center;
+    margin: 50px 25px 50px 25px;
+}
+.row2col2text {
+    background-color:white;
+    color:black;
+    text-align:center;
+    margin:50px 10px 50px 10px;
+}
+.row2col3text {
+    background-color:black;
+    color:white;
+    text-align:center;
+    margin:50px 25px 50px 25px;
+}
+.row2col4text {
+    background-color:white;
+    color:black;
+    text-align:center;
+    margin:50px 10px 50px 10px;
+}
+#topnav {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    display:inline;
+}
