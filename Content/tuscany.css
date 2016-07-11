@@ -35,16 +35,15 @@
     background-color:grey;
     color:white;
     text-align:center;
-    margin:100px 75px 100px 75px;
+    margin:300px 75px 0 75px;
 }
 .row1col2text {
     background-color:white;
     color:black;
     text-align:center;
-    margin:100px 10px 100px 10px;
+    margin:200px 10px 0 10px;
 }
 .row2col1 {
-    /*background: url('../tuscanyvilla1.jpg');  
     background-size:cover;  
     background-position:center center;*/    
     height:200px;
@@ -55,21 +54,33 @@
     background-image: url('../tuscany-wedding.jpg');
     background-size: cover;
     background-position: center center;
+    font-size:10px;
     height: 200px;
+    text-align:center;
+    padding:75px 0 25px 0;
 }
+    
 .row2col3 {
     background-image: url('../friends-tuscany.jpg');
     background-size: cover;
     background-position: center center;
+    font-size:10px;
     height: 200px;
+    text-align:center;
+    padding:75px 0 25px 0;
 }
+
 
 .row2col4 {
     background-image: url('../family-tuscany.jpg');
     background-size: cover;
     background-position: center center;
+    font-size:10px;
     height: 200px;
+    text-align:center;
+    padding:75px 0 25px 0;
 }
+
 .row2col1text {
     /*background-color:black;
     color:white;*/
@@ -81,11 +92,12 @@
     background-color:white;
     color:black;
     text-align:center;
+    font-size:12px;
     margin:50px 10px 50px 10px;
 }
 .row2col3text {
-    background-color:black;
-    color:white;
+    background-color:white;
+    color:black;
     text-align:center;
     margin:50px 25px 50px 25px;
 }
